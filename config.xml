@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="cz.rbr.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Rozkoš bez Rizika</name>
+<widget id="cz.rbr.app" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>RBR</name>
     <description>Rozkoš bez Rizika</description>
     <author email="praha@rozkosbezrizika.cz" href="http://www.rozkosbezrizika.cz/">Rozkoš bez Rizika</author>
     <content src="index.html" />
